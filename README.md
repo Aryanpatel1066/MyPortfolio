@@ -5,3 +5,4 @@
 This is my portfolio with all projects mentioned in mark15 checklist
 
 # visit now
+https://elaborate-lamington-3831e4.netlify.app/index.html
